@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Environment Variables & Secrets
+.env
+
+# Chroma Vector Database Files
+chroma_data/
+
+# Application Logs
+logs/*.log
+
+# Python Cache
+__pycache__/
+*.py[cod]
